@@ -1,8 +1,8 @@
-# w 
+# README Generator 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description 
-w 
+Using NodeJS and npm inquirer, if you answer the questions provided. It will write a professional looking README. 
 
 ## Table of contents
 - [Go to Installation](#installation) 
@@ -11,13 +11,18 @@ w
 - [Go to Tests](#tests)
 
 ## Installation
-w
+N/a
     
 ## Usage
-w
+N/A
 
 ## Contributing
-w
+Any
 
 ## Tests
-w
+N/A
+
+## License
+This project is licensed under the MIT License - see https://mit-license.org/ for details.
+
+https://opensource.org/licenses/MIT
