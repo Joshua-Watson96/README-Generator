@@ -54,6 +54,8 @@ ${data.description}
 - [Go to Usage](#usage) 
 - [Go to Contributing](#contributing) 
 - [Go to Tests](#tests)
+- [Go to License](#license)
+- [Got to Questions](#questions)
 
 ## Installation
 ${data.installation}
@@ -70,7 +72,14 @@ ${data.tests}
 ## License
 ${renderLicenseSection(data.license)}
 
-${renderLicenseLink(data.license)}`
+${renderLicenseLink(data.license)}
+
+## Questions
+
+Please checkout my Github account: https://github.com/${data.github} 
+
+Please e-mail me with any further questions:  ${data.email}
+`
 
 }
 
