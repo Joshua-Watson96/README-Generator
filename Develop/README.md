@@ -1,6 +1,14 @@
 # README Generator 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+Please click the link below to view the application in use:
+
+https://drive.google.com/file/d/1YzF-7gLr9Z14c4GGrWTdrrkKEwQ9Z6eW/view
+
+Here is a demonstration of what the code and final product should look like:
+
+![alt](./assets/images/README%20Demo.png)
+
 ## Description 
 Using NodeJS and npm inquirer, if the user anwnsers the questions provided. It will create a professional looking README.md file 
 
